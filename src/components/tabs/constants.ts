@@ -3,5 +3,5 @@ export const SECTION_TYPE = {
   ABOUT: "About",
   PROJECTS: "Projects",
   BLOGS: "Blogs",
-  STACK: "Stack"
+  STACK: "Skills"
 }
