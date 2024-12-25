@@ -21,7 +21,7 @@ const PageFooter = () => {
       </span>
 
       <div className="flex justify-center pt-32 pb-10">
-        Designed by <a className="font-bold cursor-pointer ml-2" href="https://github.com/LHRUN" target="_blank" >{"'leo'"}</a>
+        Designed by <a className="font-bold cursor-pointer ml-2" href="#" target="_blank" >{"'leo'"}</a>
       </div>
     </div>
   )
