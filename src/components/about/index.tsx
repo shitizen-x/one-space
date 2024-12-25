@@ -106,14 +106,14 @@ const About = () => {
           }
         </div>
 
-        Hello, I{"'"}m Leo{"("}宋龙浩{")"}, a Front End Developer with many years of experience. Welcome to my personal space!
+        你好，我是谢海辉，一名拥有多年经验的互联网从业人员，主要从事电商、SEO、新媒体方面的工作。欢迎来到我的个人空间！
 
         <div className="mt-6">
-        I focus on C-end project development, pursuing the ultimate aesthetic design and excellent user experience. In each project, I always maintain a high degree of enthusiasm and focus. I am usually keen to participate in open source projects and constantly explore cutting-edge technologies, and I am committed to creating truly extraordinary works that leave a mark worth remembering.
+       出于对互联网的热爱，我从2009年至今经历了传统电商到跨境电商再到兴趣电商的变革，熟悉电商行业的商业流程的闭环。期间也投入到SEO知识的学习与实操运营过多种类型的独立站，随着如今诸如抖音、小红书等兴趣电商以及AI技术的兴起我又开始寻找新的突破口。互联网时代，加速了几乎所有行业的轮替过程。我喜欢思考钻研，通过不断的学习，接触更多的项目，锻炼自己的能力，努力获得更多的杠杆效应，承担更多责任，学习更多专长，再将这些结合起来，突破原有的局限才能更好的生存下去。
         </div>
         
         <div className="mt-6">
-          If you{"'"}d like to get to know me better, please to scroll down.
+          如果您想进一步了解我，请向下滑动屏幕。
         </div>
       </div>
     </div>
