@@ -5,54 +5,34 @@ import { useEffect } from "react"
 import { SECTION_TYPE } from "../tabs/constants"
 
 const stackList = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "Vue",
-  "React",
-  "Nuxt.js",
-  "Next.js",
-  "Vite",
-  "Webpack",
-  "Pnpm",
-  "Npm",
-  "Yarn",
-  "Antd",
-  "ElementUI",
-  "WeChat",
-  "MiniProgram",
-  "Taro",
-  "uni-app",
-  "Docker",
-  "Git",
-  "Three",
-  "ECharts",
-  "SVG",
-  "CANVAS",
-  "Node",
-  "VSCode",
-  "ESLint",
-  "TailwindCSS",
-  "Sass",
-  "Less",
-  "Antv",
-  "Prisma",
-  "Vercel",
-  "SWR",
-  "Vuex",
-  "Axios",
-  "daisyUI",
-  "Fabric",
-  "I18N",
-  "Lodash",
-  "Swiper",
-  "Zustand",
-  "PostCSS",
-  "PostgreSQL",
-  "SSR",
-  "Pinia",
-  "Figma"
+  "SEO",
+  "SEM",
+  "Google",
+  "Facebook",
+  "Wordpress",
+  "微信公众号",
+  "电商运营",
+  "兴趣电商",
+  "传统电商",
+  "跨境电商",
+  "新媒体运营",
+  "数据分析",
+  "Prompt Engineering",
+  "Ai",
+  "私域运营",
+  "独立站运营",
+  "信息流优化",
+  "淘宝",
+  "拼多多",
+  "京东",
+  "抖音",
+  "小红书",
+  "视频号",
+  "快手",
+  "TikTok",
+  "Teum",
+  "速卖通",
+  "亚马逊"
 ]
 
 const Stack = () => {
@@ -69,7 +49,7 @@ const Stack = () => {
   return (
     <div id={SECTION_TYPE.STACK} className="mt-32 pt-40 w-[90%] max-w-[1040px] mx-auto">
       <div className={classNames("w-full text-center text-6xl", MonotonFont.className)}>
-        My Stack
+        My Skills
       </div>
 
       <div
