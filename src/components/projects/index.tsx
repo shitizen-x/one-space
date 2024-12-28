@@ -49,7 +49,7 @@ const Projects = () => {
       <div
         className={classNames("w-full text-center text-6xl", MonotonFont.className)}
       >
-        Projects
+        Tools
       </div>
 
       <div className="relative w-full">
