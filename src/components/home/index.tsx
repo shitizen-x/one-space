@@ -80,7 +80,7 @@ const Home = () => {
             viewBox="0 0 32 10"
             className={classNames("relative z-[2]", styles.letter)}
           />
-          <div className="w-full h-full bg-repeat bg-[url('/background.png')] bg-[length:110px_110px] opacity-15 absolute top-0 left-0 z-[1] rounded-xl">
+          <div className="w-full h-full bg-repeat bg-[url('/background.png')] bg-[length:100px_100px] opacity-15 absolute top-0 left-0 z-[1] rounded-xl">
           </div>
           <div className="w-full h-full absolute top-0 left-0 z-[0] bg-[#E9EFEC] opacity-60 rounded-xl"></div>
         </div>
