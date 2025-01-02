@@ -71,7 +71,7 @@ const Home = () => {
         <div
           className="flex items-center border-dashed rounded-xl relative scale-90 ml-4"
           style={{
-            boxShadow: "rgba(0, 0, 0, 0.25) 0px 5px 20px 0px"
+            boxShadow: "rgba(0, 0, 0, 0.25) 0px 5px 22px 0px"
           }}
         >
           <LEOSvg
