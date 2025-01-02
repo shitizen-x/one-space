@@ -75,7 +75,7 @@ const Home = () => {
           }}
         >
           <LEOSvg
-            width="32"
+            width="34"
             height="10"
             viewBox="0 0 34 10"
             className={classNames("relative z-[2]", styles.letter)}
