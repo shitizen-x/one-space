@@ -15,23 +15,23 @@ import classNames from "classnames"
 const contactList = [
   {
     icon: GithubSVG,
-    link: "https://github.com/LHRUN"
+    link: "https://github.com/shitizen-x"
   },
   {
     icon: TwitterSVG,
-    link: "https://twitter.com/Song_LongHao"
+    link: "https://x.com/xhh_im"
   },
   {
     icon: GmailSVG,
-    email: "mailto:song.lhlh@gmail.com"
+    email: "mailto:www.xhh.im@gmail.com"
   },
   {
     icon: TelegramSVG,
-    link: "https://twitter.com/Song_LongHao"
+    link: "https://t.me/X_Debian"
   },
   {
     icon: V2exSVG,
-    link: "https://www.v2ex.com/member/LHRUN"
+    link: "https://www.v2ex.com/member/xdebian"
   },
 ]
 
@@ -113,7 +113,7 @@ const About = () => {
         </div>
         
         <div className="mt-6">
-          如果您想进一步了解我，请向下滑动屏幕。
+          如果你想进一步了解我，请向下滑动屏幕。
         </div>
       </div>
     </div>
